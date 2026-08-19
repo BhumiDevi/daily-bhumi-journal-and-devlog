@@ -12,10 +12,10 @@ Welcome to **BhumiDevi's** automated activity journal and devlog repository. Thi
 
 | Metric Name | Current Status | Details |
 | :--- | :--- | :--- |
-| **🔥 Activity Streak** | **39 Days Active** | Daily automated graph updates |
-| **⚡ Total Signed Commits** | **115 Verified Commits** | Signed via Key `9053BA0D6EE11B15` |
-| **🎯 Current Dev Focus** | **System Optimization & Kernel Tuning** | Active research & engineering |
-| **🕒 Last Sync Timestamp** | **2026-08-18 19:00:05 IST** | System local time |
+| **🔥 Activity Streak** | **41 Days Active** | Daily automated graph updates |
+| **⚡ Total Signed Commits** | **120 Verified Commits** | Signed via Key `9053BA0D6EE11B15` |
+| **🎯 Current Dev Focus** | **Vulkan & OpenGL Shaders** | Active research & engineering |
+| **🕒 Last Sync Timestamp** | **2026-08-19 19:00:06 IST** | System local time |
 
 ---
 
